@@ -1,7 +1,7 @@
 # SleepCalculator
 Sleep Calculator Solution
 
-The project train keeps rolling. This is another project completed through www.codecademy.com. This is a simple sleep calculator. It takes the users number of hours of sleep per day then checks that against the actual number of hours of sleep per day and returns a result. The result includes a log stating if the amount was over, under, or just right. If the amount of sleep was less or more than the required amount the script provides the difference value in the log statement. 
+The project train keeps rolling. This is another project completed through <a href="https://www.codecademy.com/" target="_blank">Codecademy</a>. This is a simple sleep calculator. It takes the users number of hours of sleep per day then checks that against the actual number of hours of sleep per day and returns a result. The result includes a log stating if the amount was over, under, or just right. If the amount of sleep was less or more than the required amount the script provides the difference value in the log statement. 
 
 This script uses both switch statements and if else/if statements. 
 
