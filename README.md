@@ -9,4 +9,7 @@ Normally, I like to provide a revised version making use of prompts and alerts f
 
 Please feel free to ask any questions if you have them.
 
-<strong>Johnathan Mercier</strong>
+### Update 1/17/2018
+As the other repos have stated I am going through my list of unfinished business and knocking them out. This is one of two repos I decided not to make a quick index page to run the script. The current script does not allow for any actual input. It will still require opening console and changing variables. The core of the program will remain the same but I plan to overhaul this to make it a useful web app. Because this will be more complex than some of the other projects this will be one of the last ones I tackle
+
+__Johnathan Mercier__
